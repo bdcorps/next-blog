@@ -28,7 +28,7 @@ const metadata = {
     "description": "A comprehensive guide to understanding and using React Hooks in your applications.",
     "enableComment": true,
     "filePath": "content/posts/getting-started-with-react-hooks.mdx",
-    "timestamp": 1762635115309
+    "timestamp": 1762635886227
 };
 const sourceCode = "---\ntitle: Getting Started with React Hooks\ndate: '2025-01-15'\ntags: ['React', 'JavaScript', 'Tutorial', 'Frontend']\ndescription: A comprehensive guide to understanding and using React Hooks in your applications.\nenableComment: true\n---\n\n# Getting Started with React Hooks\n\nReact Hooks have revolutionized the way we write React components. In this post, we'll explore the most commonly used hooks and how they can simplify your code.\n\n## What are Hooks?\n\nHooks are functions that let you use state and other React features without writing a class component. They were introduced in React 16.8 and have since become the standard way to build React applications.\n\n## The useState Hook\n\nThe most basic hook is `useState`, which allows you to add state to functional components:\n\n```js\nimport { useState } from 'react';\n\nfunction Counter() {\n  const [count, setCount] = useState(0);\n\n  return (\n    <div>\n      <p>You clicked {count} times</p>\n      <button onClick={() => setCount(count + 1)}>\n        Click me\n      </button>\n    </div>\n  );\n}\n```\n\n## The useEffect Hook\n\n`useEffect` lets you perform side effects in functional components:\n\n```js\nimport { useState, useEffect } from 'react';\n\nfunction DataFetcher() {\n  const [data, setData] = useState(null);\n\n  useEffect(() => {\n    fetch('https://api.example.com/data')\n      .then(response => response.json())\n      .then(json => setData(json));\n  }, []); // Empty array means this runs once on mount\n\n  return <div>{data ? JSON.stringify(data) : 'Loading...'}</div>;\n}\n```\n\n## Conclusion\n\nHooks make React code more readable and maintainable. Start incorporating them into your projects today!";
 function useTOC(props) {
@@ -1652,7 +1652,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$tsx__$5
 const metadata = {
     "title": "Posts",
     "filePath": "content/posts/index.mdx",
-    "timestamp": 1762635115309
+    "timestamp": 1762635887703
 };
 const sourceCode = "# Posts\n\n<Posts/>\n\n## Tags\n\n<Tags/>";
 function useTOC(props) {

@@ -22,7 +22,7 @@ const metadata = {
     "date": "2025-10-26",
     "enableComment": false,
     "filePath": "content/colophon.mdx",
-    "timestamp": 1762635116689
+    "timestamp": 1763777639490
 };
 const sourceCode = "---\ntitle: Colophon\ndescription: About this website, the technology behind it, and the people who inspired it.\ndate: 2025-10-26\nenableComment: false\n---\n\n# Colophon\n\n## Technology\n\nThis website is built with **Nextra**, a Next.js-based framework designed specifically for documentation and blog sites. I'm using the blog theme with full **TypeScript support**—something I had to configure myself since the official Nextra documentation doesn't provide fully typed examples out of the box.\n\nFor styling, I use **Tailwind CSS** combined with **shadcn/ui** components, which gives me a solid foundation of accessible, customizable UI primitives while maintaining full control over the design system.\n\nThe site is deployed on **Vercel**, which provides seamless integration with Next.js and excellent performance out of the box.\n\n## Features\n\n### Content Management\n\nAll content is written in **MDX** and lives in the `/content` folder. This keeps things organized and makes it easy to manage posts, drafts, and other written material separately from the codebase.\n\n### Search\n\nThe site uses **Pagefind** for search functionality—a static search library recommended by Nextra that's fast, privacy-friendly, and requires no backend infrastructure.\n\n### Tags System\n\nI've enhanced the default tags system to make content discovery easier. You can browse posts by topic and find related content through intelligent tagging.\n\n### Comments\n\nComments are powered by **Giscus**, a comments system backed by GitHub Discussions. It's privacy-respecting, spam-free, and integrates naturally with my developer workflow.\n\n## Design Inspirations\n\nThese websites and developers have influenced the design and philosophy of this site:\n\n1. [Emil Kowalski](https://emilkowal.ski/) — Clean aesthetics and interaction design\n2. [Diogo](https://diogo.xyz/) — Typography and layout structure\n3. [Ánh](https://www.anh.ng/) — Thoughtful content presentation and personal touch\n4. [Matthew Smith](https://matthewsmith.website/) — Minimalist approach and attention to detail";
 function useTOC(props) {
@@ -406,7 +406,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$mdx$2d$components$2e$tsx__$5
 const metadata = {
     "title": "Felix",
     "filePath": "content/index.mdx",
-    "timestamp": 1762635115309
+    "timestamp": 1763777638148
 };
 const sourceCode = "---\ntitle: Felix\n---\n\nI'm Felix, a developer who believes good code should be both functional and beautiful. I spend my time building web applications and experimenting with modern frameworks.\n\nI've contributed to several projects ranging from e-commerce platforms to developer tools. Most of my work focuses on creating intuitive user experiences with clean, maintainable code.\n\nYou can explore my projects and writing throughout this site.\n\n## Latest posts\n\n<Posts first={5} showViewAllButton={true}/>";
 function useTOC(props) {

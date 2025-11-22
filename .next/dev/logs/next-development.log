@@ -1,6 +1,3640 @@
-[00:00:01.848] Server  LOG      ✓ Ready in 1541ms
-[00:00:38.713] Server  LOG      ○ Compiling /[[...mdxPath]] ...
-[00:00:48.620] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:55.624] Browser WARN    [giscus] Discussion not found. A new discussion will be created if a comment/reaction is submitted.
-[00:01:00.626] Browser WARN    [giscus] Discussion not found. A new discussion will be created if a comment/reaction is submitted.
-[00:01:09.626] Browser WARN    [giscus] Discussion not found. A new discussion will be created if a comment/reaction is submitted.
+[00:00:00.854] Server  LOG      ✓ Ready in 396ms
+[00:00:05.287] Server  LOG      ○ Compiling /[[...mdxPath]] ...
+[00:00:12.903] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:16.253] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:34.336] Server  LOG      ✓ Compiled in 79ms
+[00:00:49.890] Server  LOG      ✓ Compiled in 114ms
+[00:01:15.965] Server  LOG      ✓ Compiled in 29ms
+[00:01:35.797] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:01:35.817] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:02:24.297] Server  LOG      ✓ Compiled in 35ms
+[00:02:27.147] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:34.410] Server  LOG      ✓ Compiled in 43ms
+[00:02:38.220] Server  LOG      ✓ Compiled in 86ms
+[00:02:42.263] Server  LOG      ✓ Compiled in 66ms
+[00:03:52.457] Server  LOG      ✓ Compiled in 44ms
+[00:04:05.402] Server  LOG      ✓ Compiled in 30ms
+[00:04:25.092] Server  LOG      ✓ Compiled in 30ms
+[00:04:45.034] Server  LOG      ✓ Compiled in 43ms
+[00:05:18.704] Server  LOG      ✓ Compiled in 86ms
+[00:05:24.797] Server  LOG      ✓ Compiled in 35ms
+[00:05:40.557] Server  LOG      ✓ Compiled in 41ms
+[00:05:45.784] Server  LOG      ✓ Compiled in 38ms
+[00:06:29.991] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.000] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.384] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.385] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.540] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.540] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.541] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.541] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.542] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.543] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.543] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.544] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.545] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.545] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.547] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.547] Server  ERROR    ⨯ ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:06:30.572] Server  LOG      ✓ Compiled in 1090ms
+[00:06:38.618] Server  LOG      ✓ Compiled in 47ms
+[00:06:38.683] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.684] Browser ERROR   ./src/app/layout.tsx:4:1
+Module not found: Can't resolve '@/components/custom-footer'
+  2 | import 'nextra-theme-blog/style.css'
+  3 | import '@/styles/globals.css'
+> 4 | import CustomFooter from "@/components/custom-footer";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 | import CustomHeader from "@/components/custom-header";
+  6 | import {Metadata} from "next";
+  7 | import {Layout} from "nextra-theme-blog";
+
+Import map: aliased to relative './src/components/custom-footer' inside of [project]/
+
+https://nextjs.org/docs/messages/module-not-found
+[00:06:38.852] Server  ERROR    ⨯ ReferenceError: CustomFooter is not defined
+[00:06:38.901] Server  ERROR    ⨯ ReferenceError: CustomFooter is not defined
+[00:06:39.062] Browser ERROR   uncaughtError: ReferenceError: CustomFooter is not defined
+[00:06:43.183] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:43.777] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:06:43.783] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:06:44.022] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:16.527] Server  LOG      ✓ Compiled in 55ms
+[00:09:43.154] Server  LOG      ✓ Compiled in 39ms
+[00:09:51.571] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:10.329] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:10:10.334] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:11:20.697] Server  LOG      ✓ Compiled in 40ms
+[00:11:26.729] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:11:26.733] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:11:26.826] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:11:26.829] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:11:27.164] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:15.082] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:12:15.092] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:12:15.631] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:26.764] Server  LOG      ✓ Compiled in 49ms
+[00:12:32.014] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:12:32.018] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:12:43.602] Server  LOG      ✓ Compiled in 28ms
+[00:13:30.744] Server  LOG      ✓ Compiled in 86ms
+[00:13:31.904] Server  LOG      ✓ Compiled in 37ms
+[00:13:41.369] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:04.361] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:00.011] Server  LOG      ✓ Compiled in 28ms
+[00:16:01.944] Server  LOG      ✓ Compiled in 29ms
+[00:17:12.644] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:17:12.648] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:17:12.894] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:50.706] Server  LOG      ✓ Compiled in 29ms
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:7
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |       ^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.311] Browser ERROR   ./src/app/admin/page.tsx:83:8
+Parsing ecmascript source code failed
+  81 |       <div className="container mx-auto px-4 py-8 max-w-7xl">
+  82 |         <BaseWriter
+> 83 |       </div>
+     |        ^^^^^
+  84 |     </div>
+  85 |   )
+  86 | }
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/app/admin/page.tsx
+    ./node_modules/nextra/dist/server/page-map/placeholder.js
+    ./node_modules/nextra/dist/server/page-map/get.js
+    ./node_modules/nextra/dist/client/pages.js
+    ./src/app/[[...mdxPath]]/page.tsx
+[00:17:53.313] Server  LOG      ✓ Compiled in 98ms
+[00:17:56.262] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:58.413] Server  LOG      ✓ Compiled in 71ms
+[00:18:06.643] Server  LOG      ✓ Compiled in 22ms
+[00:18:07.589] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:10.319] Server  LOG      ✓ Compiled in 87ms
+[00:18:10.405] Browser ERROR   uncaughtError: ReferenceError: BaseWriter is not defined
+[00:18:12.464] Server  LOG      ✓ Compiled in 68ms
+[00:18:12.481] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:18:12.676] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:21.832] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:18:21.839] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:18:45.259] Server  LOG      ✓ Compiled in 49ms
+[00:20:02.345] Server  LOG      ✓ Compiled in 58ms
+[00:20:07.882] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:21.566] Server  LOG      ✓ Compiled in 38ms
+[00:21:24.960] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:52.974] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:21:52.979] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:22:11.637] Server  LOG      ✓ Compiled in 41ms
+[00:22:12.721] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:22:12.725] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:22:12.971] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:36.523] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:22:36.527] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:22:46.704] Server  LOG      ✓ Compiled in 34ms
+[00:22:54.425] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:22:54.438] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:23:32.713] Server  LOG      ✓ Compiled in 91ms
+[00:23:35.429] Server  LOG      ✓ Compiled in 39ms
+[00:23:39.100] Server  LOG      ✓ Compiled in 83ms
+[00:24:06.714] Server  LOG      ✓ Compiled in 40ms
+[00:24:07.845] Server  LOG      ✓ Compiled in 29ms
+[00:24:13.302] Server  LOG      ✓ Compiled in 29ms
+[00:24:18.757] Server  LOG      ✓ Compiled in 48ms
+[00:24:24.338] Server  LOG      ✓ Compiled in 44ms
+[00:24:28.328] Server  LOG      ✓ Compiled in 46ms
+[00:24:41.591] Server  LOG      ✓ Compiled in 31ms
+[00:24:45.173] Server  LOG      ✓ Compiled in 47ms
+[00:24:47.147] Server  LOG      ✓ Compiled in 30ms
+[00:24:48.309] Server  LOG      ✓ Compiled in 25ms
+[00:24:54.363] Server  LOG      ✓ Compiled in 35ms
+[00:24:56.427] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:01.529] Server  LOG      ✓ Compiled in 35ms
+[00:25:07.952] Server  LOG      ✓ Compiled in 38ms
+[00:25:08.663] Server  LOG      ✓ Compiled in 28ms
+[00:25:11.218] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:25:11.223] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:25:20.032] Server  LOG      ✓ Compiled in 45ms
+[00:25:28.570] Server  LOG      ✓ Compiled in 49ms
+[00:25:33.040] Server  LOG      ✓ Compiled in 31ms
+[00:25:34.719] Server  LOG      ✓ Compiled in 42ms
+[00:25:34.954] Server  LOG      ✓ Compiled in 48ms
+[00:25:52.378] Server  LOG      ✓ Compiled in 28ms
+[00:26:12.819] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:26:12.830] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:26:30.038] Server  LOG      ✓ Compiled in 53ms
+[00:26:36.954] Server  LOG      ✓ Compiled in 47ms
+[00:26:40.493] Server  LOG      ✓ Compiled in 61ms
+[00:26:41.200] Server  LOG      ✓ Compiled in 32ms
+[00:26:43.387] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:26:43.394] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[00:26:43.628] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:51.491] Server  LOG      ✓ Compiled in 61ms
+[00:26:52.461] Server  LOG      ✓ Compiled in 48ms
+[00:26:55.544] Server  LOG      ✓ Compiled in 29ms
+[11:58:43.977] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[11:58:43.985] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[12:01:23.130] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[12:01:23.144] Server  LOG     - "\u001b[31merror\u001b[0m" "[nextra]" "Error while loading" {} Error: Cannot find module 'private-next-content-dir/undefined'
+[12:01:52.796] Server  LOG      ✓ Compiled in 37ms
+[12:02:00.442] Server  LOG      ✓ Compiled in 51ms
+[12:02:38.398] Server  LOG      ✓ Compiled in 101ms
+[12:02:39.404] Server  LOG      ✓ Compiled in 50ms
+[12:02:39.968] Server  LOG      ✓ Compiled in 46ms
+[12:02:40.514] Server  LOG      ✓ Compiled in 53ms
+[12:02:41.038] Server  LOG      ✓ Compiled in 41ms
+[12:02:41.592] Server  LOG      ✓ Compiled in 38ms
+[12:02:42.192] Server  LOG      ✓ Compiled in 58ms
+[12:02:42.754] Server  LOG      ✓ Compiled in 55ms
+[12:02:43.322] Server  LOG      ✓ Compiled in 47ms
+[12:02:43.872] Server  LOG      ✓ Compiled in 55ms
+[12:02:44.442] Server  LOG      ✓ Compiled in 50ms
+[12:02:45.050] Server  LOG      ✓ Compiled in 125ms
+[12:02:45.517] Server  LOG      ✓ Compiled in 49ms
+[12:02:48.749] Server  LOG      ✓ Compiled in 47ms
+[12:02:56.355] Server  LOG      ✓ Compiled in 33ms
+[12:04:18.784] Server  LOG      ✓ Compiled in 112ms
+[12:04:19.529] Server  LOG      ✓ Compiled in 34ms
