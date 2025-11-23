@@ -1,6 +1,6 @@
 'use client'
 
-import { Post } from '@/app/admin/page'
+import { Post } from '@/app/admin/posts/[slug]/page'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import {

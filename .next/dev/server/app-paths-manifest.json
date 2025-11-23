@@ -1,5 +1,3 @@
 {
-  "/[[...mdxPath]]/page": "app/[[...mdxPath]]/page.js",
-  "/admin/page": "app/admin/page.js",
-  "/api/admin/posts/route": "app/api/admin/posts/route.js"
+  "/[[...mdxPath]]/page": "app/[[...mdxPath]]/page.js"
 }

@@ -1,1 +1,11 @@
-{"version":4,"routes":{"/colophon":{},"/":{},"/posts/creating-smooth-css-animations":{},"/posts/data-visualization-with-react":{},"/posts/getting-started-with-react-hooks":{},"/posts/implementing-dark-mode-react":{},"/posts":{},"/posts/mastering-css-grid-layout":{},"/posts/modern-form-validation-techniques":{},"/posts/optimizing-nodejs-performance":{},"/posts/typescript-best-practices-2025":{},"/posts/understanding-react-state-management":{},"/posts/web-accessibility-fundamentals":{}},"dynamicRoutes":{"/[[...mdxPath]]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/[[...mdxPath]]","routeRegex":"^(?:\\/(.+?))?(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"a0fa814fd337da5d5fdd36e371a6efd6","previewModeSigningKey":"fe8a1f2d2c81af9f3447b034fc34a0c668ea7af8cadfd64caf603b77ad72c47d","previewModeEncryptionKey":"d14274526885b5ef1ed0d8f6bd250254668fd5815199d942118c43e780aa3d27"}}
+{
+  "version": 4,
+  "routes": {},
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "752c060ee6bc87c08afb3d2c053d836a",
+    "previewModeSigningKey": "cb28e8ac64bc3b56af3c5582721ae78048b132499685c8dbbf200a732cf46bf2",
+    "previewModeEncryptionKey": "8f9b2c7a099c6683d48236cc75a3f9d285969ad389e305914ad829d62e8ef3a3"
+  }
+}

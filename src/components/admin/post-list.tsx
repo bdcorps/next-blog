@@ -1,10 +1,9 @@
 'use client'
 
-import { Post } from '@/app/admin/page'
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
-import { Button } from '@/components/ui/button'
+import { Post } from '@/app/admin/posts/[slug]/page'
 import { Badge } from '@/components/ui/badge'
-import { Edit, Trash2, Calendar } from 'lucide-react'
+import { Button } from '@/components/ui/button'
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import {
   Dialog,
   DialogContent,
@@ -13,6 +12,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from '@/components/ui/dialog'
+import { Calendar, Edit, Trash2 } from 'lucide-react'
 import { useState } from 'react'
 
 type PostListProps = {

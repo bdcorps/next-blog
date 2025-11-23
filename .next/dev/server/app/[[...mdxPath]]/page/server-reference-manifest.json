@@ -1,4 +1,20 @@
 {
-  "node": {},
+  "node": {
+    "00cae60eb338d44a0aa22d0363b81a10fb2e9954be": {
+      "workers": {
+        "app/[[...mdxPath]]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[[...mdxPath]]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/admin/posts/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "fetchAdminPosts",
+          "filename": "src/app/admin/posts/actions.ts"
+        }
+      },
+      "layer": {
+        "app/[[...mdxPath]]/page": "action-browser"
+      },
+      "exportedName": "fetchAdminPosts",
+      "filename": "src/app/admin/posts/actions.ts"
+    }
+  },
   "edge": {}
 }

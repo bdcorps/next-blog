@@ -1,61 +1,56 @@
-import {normalizePages} from 'nextra/normalize-pages'
-import {getPageMap} from 'nextra/page-map'
+import { promises as fs } from 'fs'
+import matter from 'gray-matter'
+import path from 'path'
 
-type GetPostsOptions = {
-    first?: number;
-    tags?: string[];
-    excludeByTitle?: string;
-};
-export type PostItem = {
-    title: string;
-    name: string;
-    route: string;
-    type: string;
-    frontMatter: {
-        title: string;
-        date: string;
-        tags: string[];
-        description: string;
-        enableComment: boolean;
-        filePath: string;
-        timestamp: number;
-    }
+const POSTS_DIR = path.join(process.cwd(), 'content/posts')
+
+export type AdminPost = {
+  slug: string
+  title: string
+  date: string
+  tags: string[]
+  description: string
+  enableComment: boolean
+  content: string
+  filePath?: string
 }
 
-export async function getPosts(options: GetPostsOptions = {}): Promise<PostItem[]> {
-    const {first, tags, excludeByTitle} = options;
+export async function getPosts(): Promise<AdminPost[]> {
+  try {
+    const files = await fs.readdir(POSTS_DIR)
+    const posts = await Promise.all(
+      files
+        .filter(file => file.endsWith('.mdx') && file !== 'index.mdx')
+        .map(async (file) => {
+          const filePath = path.join(POSTS_DIR, file)
+          const content = await fs.readFile(filePath, 'utf-8')
+          const { data, content: body } = matter(content)
+          const slug = file.replace('.mdx', '')
 
-    // get
-    const {directories} = normalizePages({
-        list: await getPageMap('/posts'),
-        route: '/posts'
+          return {
+            slug,
+            title: data.title || '',
+            date: data.date || '',
+            tags: data.tags || [],
+            description: data.description || '',
+            enableComment: data.enableComment || false,
+            content: body,
+            filePath: file
+          }
+        })
+    )
+
+    // Sort by date descending
+    posts.sort((a, b) => {
+      const dateA = new Date(a.date).getTime()
+      const dateB = new Date(b.date).getTime()
+      return dateB - dateA
     })
 
-    // Sort posts by date
-    let posts = directories
-        .filter((post) => post.name !== 'index')
-        .sort((a, b) => {
-            const dateA = new Date(a.frontMatter?.date || '');
-            const dateB = new Date(b.frontMatter?.date || '');
-            return dateB.getTime() - dateA.getTime();
-        });
-
-    // Filter by tags if provided
-    if (tags && tags.length > 0) {
-        posts = posts.filter(post =>
-            tags.some(tag => post.frontMatter.tags?.includes(tag))
-        );
-    }
-
-    // Exclude by title if provided
-    if (excludeByTitle) {
-        posts = posts.filter(post => post.title !== excludeByTitle);
-    }
-
-    // Apply first limit if provided
-    if (first) {
-        posts = posts.slice(0, first);
-    }
-
-    return posts as unknown as PostItem[];
+    return posts
+  } catch (error) {
+    console.error('Error reading posts:', error)
+    return []
+  }
 }
+
